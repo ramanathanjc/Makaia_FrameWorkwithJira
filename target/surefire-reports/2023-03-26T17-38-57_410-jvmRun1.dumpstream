@@ -1,0 +1,914 @@
+# Created at 2023-03-26T17:39:03.562
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2023-03-26T17:39:08.650
+Unexpected IOException with stream: {
+    "result": {
+        "parent": "",
+        "made_sla": "true",
+        "caused_by": "",
+        "watch_list": "",
+        "upon_reject": "cancel",
+        "sys_updated_on": "2023-03-26 12:08:08",
+        "child_incidents": "0",
+        "hold_reason": "",
+        "origin_table": "",
+        "task_effective_number": "INC0010005",
+        "approval_history": "",
+        "skills": "",
+        "number": "INC0010005",
+        "resolved_by": "",
+        "sys_updated_by": "admin",
+        "opened_by": {
+            "link": "https://dev98682.service-now.com/api/now/table/sys_user/6816f79cc0a8016401c5a33be04be441",
+            "value": "6816f79cc0a8016401c5a33be04be441"
+        },
+        "user_input": "",
+        "sys_created_on": "2023-03-26 12:08:08",
+        "sys_domain": {
+            "link": "https://dev98682.service-now.com/api/now/table/sys_user_group/global",
+            "value": "global"
+        },
+        "state": "1",
+        "route_reason": "",
+        "sys_created_by": "admin",
+        "knowledge": "false",
+        "order": "",
+        "calendar_stc": "",
+        "closed_at": "",
+        "cmdb_ci": "",
+        "delivery_plan": "",
+        "contract": "",
+        "impact": "3",
+        "active": "true",
+        "work_notes_list": "",
+        "business_service": "",
+        "business_impact": "",
+        "priority": "5",
+        "sys_domain_path": "/",
+        "rfc": "",
+        "time_worked": "",
+        "expected_start": "",
+        "opened_at": "2023-03-26 12:08:08",
+        "business_duration": "",
+        "group_list": "",
+        "work_end": "",
+        "caller_id": "",
+        "reopened_time": "",
+        "resolved_at": "",
+        "approval_set": "",
+        "subcategory": "",
+        "work_notes": "",
+        "needs_attention": "false",
+        "universal_request": "",
+        "short_description": "This is Rest Assured Automation framework - Makaia",
+        "close_code": "",
+        "correlation_display": "",
+        "delivery_task": "",
+        "work_start": "",
+        "assignment_group": "",
+        "additional_assignee_list": "",
+        "business_stc": "",
+        "cause": "",
+        "description": "",
+        "origin_id": "",
+        "calendar_duration": "",
+        "close_notes": "",
+        "notify": "1",
+        "service_offering": "",
+        "sys_class_name": "incident",
+        "closed_by": "",
+        "follow_up": "",
+        "parent_incident": "",
+        "sys_id": "1f7cf63d47f92110ae4eb1a8536d43cb",
+        "contact_type": "",
+        "reopened_by": "",
+        "incident_state": "1",
+        "urgency": "3",
+        "problem_id": "",
+        "company": "",
+        "reassignment_count": "0",
+        "activity_due": "",
+        "action_status": "",
+        "assigned_to": "",
+        "severity": "3",
+        "comments": "",
+        "approval": "not requested",
+        "sla_due": "",
+        "comments_and_work_notes": "",
+        "due_date": "",
+        "sys_mod_count": "0",
+        "reopen_count": "0",
+        "sys_tags": "",
+        "escalation": "0",
+        "upon_approval": "proceed",
+        "correlation_id": "",
+        "location": "",
+        "category": "inquiry"
+    }
+}
+
+
+# Created at 2023-03-26T17:39:10.016
+Unexpected IOException: 6,1,tests.rest.TC001_CreateIncident,createIncident(tests.rest.TC001_CreateIncident),null,null,null
+
+
+# Created at 2023-03-26T17:39:10.023
+Unexpected IOException with stream: .\data\TC003.JSON
+
+# Created at 2023-03-26T17:39:10.025
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:10.026
+Unexpected IOException: 5,1,tests.rest.TC003_CreateChangeRequest,createCR(tests.rest.TC003_CreateChangeRequest),tests.rest.TC003_CreateChangeRequest,null,null
+
+
+# Created at 2023-03-26T17:39:10.044
+Unexpected IOException with stream: Request method:	POST
+Request URI:	https://dev98682.service-now.com/api/now/table/change_request
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+.\data\TC003.JSON
+
+
+# Created at 2023-03-26T17:39:14.814
+Unexpected IOException: 6,1,tests.rest.TC003_CreateChangeRequest,createCR(tests.rest.TC003_CreateChangeRequest),null,null,null
+
+
+# Created at 2023-03-26T17:39:15.629
+Unexpected IOException with stream: ./data/TC002.xlsx
+
+
+# Created at 2023-03-26T17:39:17.211
+Unexpected IOException with stream: C
+
+# Created at 2023-03-26T17:39:17.212
+Unexpected IOException with stream: h
+
+# Created at 2023-03-26T17:39:17.213
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:17.214
+Unexpected IOException with stream: o
+
+# Created at 2023-03-26T17:39:17.215
+Unexpected IOException with stream: m
+
+# Created at 2023-03-26T17:39:17.216
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:17.217
+Unexpected IOException with stream: D
+
+# Created at 2023-03-26T17:39:17.218
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:17.219
+Unexpected IOException with stream: i
+
+# Created at 2023-03-26T17:39:17.219
+Unexpected IOException with stream: v
+
+# Created at 2023-03-26T17:39:17.220
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:17.221
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:17.222
+Unexpected IOException with stream:  
+
+# Created at 2023-03-26T17:39:17.223
+Unexpected IOException with stream: w
+
+# Created at 2023-03-26T17:39:17.224
+Unexpected IOException with stream: a
+
+# Created at 2023-03-26T17:39:17.225
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:17.225
+Unexpected IOException with stream:  
+
+# Created at 2023-03-26T17:39:17.226
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:17.227
+Unexpected IOException with stream: t
+
+# Created at 2023-03-26T17:39:17.228
+Unexpected IOException with stream: a
+
+# Created at 2023-03-26T17:39:17.230
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:17.231
+Unexpected IOException with stream: t
+
+# Created at 2023-03-26T17:39:17.232
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:17.233
+Unexpected IOException with stream: d
+
+# Created at 2023-03-26T17:39:17.234
+Unexpected IOException with stream:  
+
+# Created at 2023-03-26T17:39:17.235
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:17.235
+Unexpected IOException with stream: u
+
+# Created at 2023-03-26T17:39:17.236
+Unexpected IOException with stream: c
+
+# Created at 2023-03-26T17:39:17.237
+Unexpected IOException with stream: c
+
+# Created at 2023-03-26T17:39:17.238
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:17.239
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:17.240
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:17.241
+Unexpected IOException with stream: f
+
+# Created at 2023-03-26T17:39:17.242
+Unexpected IOException with stream: u
+
+# Created at 2023-03-26T17:39:17.243
+Unexpected IOException with stream: l
+
+# Created at 2023-03-26T17:39:17.244
+Unexpected IOException with stream: l
+
+# Created at 2023-03-26T17:39:17.245
+Unexpected IOException with stream: y
+
+# Created at 2023-03-26T17:39:17.245
+Unexpected IOException with stream: .
+
+# Created at 2023-03-26T17:39:17.246
+Unexpected IOException with stream: 
+
+# Created at 2023-03-26T17:39:17.248
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:19.838
+Unexpected IOException with stream: Mar 26, 2023 5:39:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2023-03-26T17:39:22.360
+Unexpected IOException: 5,1,tests.selenium.TC002_CreateIncidentAndGetFromRest,createIncident(tests.selenium.TC002_CreateIncidentAndGetFromRest),tests.selenium.TC002_CreateIncidentAndGetFromRest,null,null
+
+
+# Created at 2023-03-26T17:39:32.568
+Unexpected IOException with stream: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.111)
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'DESKTOP-BN3PUO8', ip: '10.0.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.111, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54407}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5cc26d0d59119c0368713dac2dc6a34d
+*** Element info: {Using=id, value=user_name}
+
+# Created at 2023-03-26T17:39:32.569
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.571
+Unexpected IOException with stream: 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+
+# Created at 2023-03-26T17:39:32.571
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.572
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2023-03-26T17:39:32.573
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.573
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+
+# Created at 2023-03-26T17:39:32.574
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.575
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
+
+# Created at 2023-03-26T17:39:32.575
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.576
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
+
+# Created at 2023-03-26T17:39:32.577
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.578
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+
+# Created at 2023-03-26T17:39:32.579
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.580
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
+
+# Created at 2023-03-26T17:39:32.580
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.582
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2023-03-26T17:39:32.583
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.584
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
+
+# Created at 2023-03-26T17:39:32.585
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.586
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
+
+# Created at 2023-03-26T17:39:32.587
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.588
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:375)
+
+# Created at 2023-03-26T17:39:32.589
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.589
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:196)
+
+# Created at 2023-03-26T17:39:32.590
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.591
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
+
+# Created at 2023-03-26T17:39:32.592
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.593
+Unexpected IOException with stream: 	at sun.reflect.GeneratedMethodAccessor26.invoke(Unknown Source)
+
+# Created at 2023-03-26T17:39:32.594
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.595
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2023-03-26T17:39:32.595
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.596
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2023-03-26T17:39:32.597
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.598
+Unexpected IOException with stream: 	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:106)
+
+# Created at 2023-03-26T17:39:32.600
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.601
+Unexpected IOException with stream: 	at com.sun.proxy.$Proxy16.findElement(Unknown Source)
+
+# Created at 2023-03-26T17:39:32.602
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.603
+Unexpected IOException with stream: 	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:195)
+
+# Created at 2023-03-26T17:39:32.603
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.604
+Unexpected IOException with stream: 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+
+# Created at 2023-03-26T17:39:32.605
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.606
+Unexpected IOException with stream: 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+
+# Created at 2023-03-26T17:39:32.606
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.607
+Unexpected IOException with stream: 	at com.sun.proxy.$Proxy20.toString(Unknown Source)
+
+# Created at 2023-03-26T17:39:32.609
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.610
+Unexpected IOException with stream: 	at java.lang.String.valueOf(String.java:2994)
+
+# Created at 2023-03-26T17:39:32.610
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.611
+Unexpected IOException with stream: 	at java.lang.StringBuilder.append(StringBuilder.java:131)
+
+# Created at 2023-03-26T17:39:32.612
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.613
+Unexpected IOException with stream: 	at org.openqa.selenium.support.ui.ExpectedConditions$23.toString(ExpectedConditions.java:683)
+
+# Created at 2023-03-26T17:39:32.614
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.615
+Unexpected IOException with stream: 	at java.lang.String.valueOf(String.java:2994)
+
+# Created at 2023-03-26T17:39:32.615
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.616
+Unexpected IOException with stream: 	at java.lang.StringBuilder.append(StringBuilder.java:131)
+
+# Created at 2023-03-26T17:39:32.617
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.619
+Unexpected IOException with stream: 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:232)
+
+# Created at 2023-03-26T17:39:32.620
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.621
+Unexpected IOException with stream: 	at lib.selenium.WebDriverServiceImpl.waitForclickability(WebDriverServiceImpl.java:457)
+
+# Created at 2023-03-26T17:39:32.621
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.622
+Unexpected IOException with stream: 	at lib.selenium.WebDriverServiceImpl.type(WebDriverServiceImpl.java:65)
+
+# Created at 2023-03-26T17:39:32.623
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.624
+Unexpected IOException with stream: 	at pages.selenium.LoginPage.typeUserName(LoginPage.java:55)
+
+# Created at 2023-03-26T17:39:32.624
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.625
+Unexpected IOException with stream: 	at pages.selenium.LoginPage.loginApp(LoginPage.java:73)
+
+# Created at 2023-03-26T17:39:32.626
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.627
+Unexpected IOException with stream: 	at tests.selenium.TC002_CreateIncidentAndGetFromRest.createIncident(TC002_CreateIncidentAndGetFromRest.java:32)
+
+# Created at 2023-03-26T17:39:32.629
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.630
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2023-03-26T17:39:32.631
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.631
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2023-03-26T17:39:32.632
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.633
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2023-03-26T17:39:32.634
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.635
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2023-03-26T17:39:32.636
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.636
+Unexpected IOException with stream: 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+
+# Created at 2023-03-26T17:39:32.637
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.638
+Unexpected IOException with stream: 	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+
+# Created at 2023-03-26T17:39:32.639
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.640
+Unexpected IOException with stream: 	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+
+# Created at 2023-03-26T17:39:32.640
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.641
+Unexpected IOException with stream: 	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+
+# Created at 2023-03-26T17:39:32.642
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.642
+Unexpected IOException with stream: 	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+
+# Created at 2023-03-26T17:39:32.643
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.644
+Unexpected IOException with stream: 	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+
+# Created at 2023-03-26T17:39:32.645
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.646
+Unexpected IOException with stream: 	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+
+# Created at 2023-03-26T17:39:32.646
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.648
+Unexpected IOException with stream: 	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+
+# Created at 2023-03-26T17:39:32.649
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.650
+Unexpected IOException with stream: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+
+# Created at 2023-03-26T17:39:32.651
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.652
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:808)
+
+# Created at 2023-03-26T17:39:32.653
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.654
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:603)
+
+# Created at 2023-03-26T17:39:32.655
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.655
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+
+# Created at 2023-03-26T17:39:32.656
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.657
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+
+# Created at 2023-03-26T17:39:32.658
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.660
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+
+# Created at 2023-03-26T17:39:32.660
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.662
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+
+# Created at 2023-03-26T17:39:32.662
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.663
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2023-03-26T17:39:32.664
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.665
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+
+# Created at 2023-03-26T17:39:32.666
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.666
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+
+# Created at 2023-03-26T17:39:32.667
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.668
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+
+# Created at 2023-03-26T17:39:32.669
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.669
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuites(TestNG.java:1092)
+
+# Created at 2023-03-26T17:39:32.670
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.671
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1060)
+
+# Created at 2023-03-26T17:39:32.671
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.672
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2023-03-26T17:39:32.673
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.673
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2023-03-26T17:39:32.674
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.675
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2023-03-26T17:39:32.676
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.677
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:383)
+
+# Created at 2023-03-26T17:39:32.678
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.679
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:344)
+
+# Created at 2023-03-26T17:39:32.679
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.680
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)
+
+# Created at 2023-03-26T17:39:32.681
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.682
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:417)
+
+# Created at 2023-03-26T17:39:32.682
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:32.702
+Unexpected IOException: 8,1,tests.selenium.TC002_CreateIncidentAndGetFromRest,createIncident(tests.selenium.TC002_CreateIncidentAndGetFromRest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=111.0.5563.111)\000ABuild info: version: '4.0.0-alpha-3'\002C revision: '8c567de6dc'\000ASystem info: host: 'DESKTOP-BN3PUO8'\002C ip: '10.0.0.11'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_271'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 111.0.5563.111\002C chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63...\002C userDataDir: C:\005CUsers\005Cdell\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54407}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 5cc26d0d59119c0368713dac2dc6a34d\000A*** Element info: {Using=id\002C value=user_name},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=111.0.5563.111)\000ABuild info: version: '4.0.0-alpha-3'\002C revision: '8c567de6dc'\000ASystem info: host: 'DESKTOP-BN3PUO8'\002C ip: '10.0.0.11'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_271'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 111.0.5563.111\002C chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63...\002C userDataDir: C:\005CUsers\005Cdell\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54407}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 5cc26d0d59119c0368713dac2dc6a34d\000A*** Element info: {Using=id\002C value=user_name},TC002_CreateIncidentAndGetFromRest.createIncident:32->WebDriverServiceImpl.type:73 \00BB NoSuchWindow,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=111.0.5563.111)\000ABuild info: version: '4.0.0-alpha-3'\002C revision: '8c567de6dc'\000ASystem info: host: 'DESKTOP-BN3PUO8'\002C ip: '10.0.0.11'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_271'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 111.0.5563.111\002C chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63...\002C userDataDir: C:\005CUsers\005Cdell\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54407}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 5cc26d0d59119c0368713dac2dc6a34d\000A*** Element info: {Using=id\002C value=user_name}\000A\0009at tests.selenium.TC002_CreateIncidentAndGetFromRest.createIncident(TC002_CreateIncidentAndGetFromRest.java:32)\000A
+
+
+# Created at 2023-03-26T17:39:32.709
+Unexpected IOException: 8,1,tests.selenium.TC002_CreateIncidentAndGetFromRest,afterMethod(tests.selenium.TC002_CreateIncidentAndGetFromRest),null,null,null,null,TC002_CreateIncidentAndGetFromRest>PreAndPost.afterMethod:71->WebDriverServiceImpl.closeActiveBrowser:415->HTMLReporter.reportStep:82 \00BB Runtime,java.lang.RuntimeException\000A
+
+
+# Created at 2023-03-26T17:39:32.712
+Unexpected IOException with stream: ./data/TC003.xlsx
+
+
+# Created at 2023-03-26T17:39:32.872
+Unexpected IOException with stream: C
+
+# Created at 2023-03-26T17:39:32.873
+Unexpected IOException with stream: h
+
+# Created at 2023-03-26T17:39:32.873
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:32.874
+Unexpected IOException with stream: o
+
+# Created at 2023-03-26T17:39:32.875
+Unexpected IOException with stream: m
+
+# Created at 2023-03-26T17:39:32.875
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:32.876
+Unexpected IOException with stream: D
+
+# Created at 2023-03-26T17:39:32.876
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:32.878
+Unexpected IOException with stream: i
+
+# Created at 2023-03-26T17:39:32.879
+Unexpected IOException with stream: v
+
+# Created at 2023-03-26T17:39:32.880
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:32.881
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:32.881
+Unexpected IOException with stream:  
+
+# Created at 2023-03-26T17:39:32.882
+Unexpected IOException with stream: w
+
+# Created at 2023-03-26T17:39:32.883
+Unexpected IOException with stream: a
+
+# Created at 2023-03-26T17:39:32.883
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:32.884
+Unexpected IOException with stream:  
+
+# Created at 2023-03-26T17:39:32.886
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:32.887
+Unexpected IOException with stream: t
+
+# Created at 2023-03-26T17:39:32.888
+Unexpected IOException with stream: a
+
+# Created at 2023-03-26T17:39:32.889
+Unexpected IOException with stream: r
+
+# Created at 2023-03-26T17:39:32.890
+Unexpected IOException with stream: t
+
+# Created at 2023-03-26T17:39:32.891
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:32.891
+Unexpected IOException with stream: d
+
+# Created at 2023-03-26T17:39:32.892
+Unexpected IOException with stream:  
+
+# Created at 2023-03-26T17:39:32.892
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:32.893
+Unexpected IOException with stream: u
+
+# Created at 2023-03-26T17:39:32.894
+Unexpected IOException with stream: c
+
+# Created at 2023-03-26T17:39:32.894
+Unexpected IOException with stream: c
+
+# Created at 2023-03-26T17:39:32.895
+Unexpected IOException with stream: e
+
+# Created at 2023-03-26T17:39:32.895
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:32.896
+Unexpected IOException with stream: s
+
+# Created at 2023-03-26T17:39:32.897
+Unexpected IOException with stream: f
+
+# Created at 2023-03-26T17:39:32.898
+Unexpected IOException with stream: u
+
+# Created at 2023-03-26T17:39:32.899
+Unexpected IOException with stream: l
+
+# Created at 2023-03-26T17:39:32.900
+Unexpected IOException with stream: l
+
+# Created at 2023-03-26T17:39:32.901
+Unexpected IOException with stream: y
+
+# Created at 2023-03-26T17:39:32.902
+Unexpected IOException with stream: .
+
+# Created at 2023-03-26T17:39:32.902
+Unexpected IOException with stream: 
+
+# Created at 2023-03-26T17:39:32.903
+Unexpected IOException with stream: 
+
+
+# Created at 2023-03-26T17:39:34.412
+Unexpected IOException with stream: Mar 26, 2023 5:39:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2023-03-26T17:39:45.016
+Unexpected IOException: 8,1,tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium,beforeMethod(tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium),null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.0.0-alpha-3'\002C revision: '8c567de6dc'\000ASystem info: host: 'DESKTOP-BN3PUO8'\002C ip: '10.0.0.11'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_271'\000ADriver info: driver.version: EventFiringWebDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 111.0.5563.111\002C chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63...\002C userDataDir: C:\005CUsers\005Cdell\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54430}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d2138c820f1c082e23ffc792b03e2389,null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.0.0-alpha-3'\002C revision: '8c567de6dc'\000ASystem info: host: 'DESKTOP-BN3PUO8'\002C ip: '10.0.0.11'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_271'\000ADriver info: driver.version: EventFiringWebDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 111.0.5563.111\002C chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63...\002C userDataDir: C:\005CUsers\005Cdell\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54430}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d2138c820f1c082e23ffc792b03e2389,TC003_CreateIncidentUsingRestAndVerifyUsingSelenium>PreAndPost.beforeMethod:64 \00BB UnreachableBrowser,org.openqa.selenium.remote.UnreachableBrowserException: \000AError communicating with the remote browser. It may have died.\000ABuild info: version: '4.0.0-alpha-3'\002C revision: '8c567de6dc'\000ASystem info: host: 'DESKTOP-BN3PUO8'\002C ip: '10.0.0.11'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_271'\000ADriver info: driver.version: EventFiringWebDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 111.0.5563.111\002C chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63...\002C userDataDir: C:\005CUsers\005Cdell\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54430}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d2138c820f1c082e23ffc792b03e2389\000ACaused by: java.io.UncheckedIOException: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:6565\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:6565\000ACaused by: java.net.ConnectException: Connection refused: connect\000A
+
+
+# Created at 2023-03-26T17:39:45.022
+Unexpected IOException: 5,1,tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium,createIncident(tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium),tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium,null,null
+
+
+# Created at 2023-03-26T17:39:45.025
+Unexpected IOException: 9,1,tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium,createIncident(tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium),null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.0.0-alpha-3'\002C revision: '8c567de6dc'\000ASystem info: host: 'DESKTOP-BN3PUO8'\002C ip: '10.0.0.11'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_271'\000ADriver info: driver.version: EventFiringWebDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 111.0.5563.111\002C chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63...\002C userDataDir: C:\005CUsers\005Cdell\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54430}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d2138c820f1c082e23ffc792b03e2389,null
+
+
+# Created at 2023-03-26T17:39:45.028
+Unexpected IOException: 9,1,tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium,afterMethod(tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium),null,null,null
+
+
+# Created at 2023-03-26T17:39:45.448
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
